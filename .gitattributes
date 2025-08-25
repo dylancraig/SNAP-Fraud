@@ -1,0 +1,5 @@
+# Force language detection for R scripts
+*.R linguist-language=R
+
+# Force language detection for Python scripts
+*.py linguist-language=Python
